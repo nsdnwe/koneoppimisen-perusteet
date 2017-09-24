@@ -4,6 +4,7 @@ Koneoppimisen perusteet
 Lyhyesti mitä koneoppiminen eli machine learning tarkoittaa
 ---
 
+* Koneoppiminen tarkoittaa ensisijaisesti automaattisesti asioita oppivien algoritmien ja järjestelmien kehittämistä.
 * Koneoppimisessa kerätyn tiedon eli **datan** avulla luodaan tilastollinen **malli**, jonka avulla on mahdollista ennustaa tulevia tapahtumia.
 * Mallin voi ajatella yksinkertaisesti olevan kokoelma kaavoja ja vakioarvoja, jotka **koneoppimisalgoritmin** valitsee olemassa olevan datan avulla.
 * Mallien käyttö eroaa perinteisestä staattisesta ohjelmoinnista (C#, Java etc.) ja on monia tilanteita, joissa perinteistä ohjelmointia ei voida käyttää. Esim. roskaposti-filtteriohjelman toteutus pohjautuu jatkuvasti muuttuvien tietojen analysointiin ja oppimiseen, ei staattisiin sääntöihin.
